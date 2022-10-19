@@ -1,0 +1,12 @@
+{"id":0,
+"isLimbo":false,
+"name":"Summer's Breeze",
+"sbName":"Summer's Breeze",
+"difficulty":4,
+"background":0,
+"blocking":1,
+"restrictTp":false,
+"showDisplays":false,
+"portals":[0x7893],
+"maps":["SummersBreeze.jm"],
+"music":["summersbreeze"]}

@@ -1,0 +1,12 @@
+{"id":0,
+"isLimbo":false,
+"name":"Shadowland",
+"sbName":"Shadowland",
+"difficulty":5,
+"background":0,
+"blocking":1,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0x7943],
+"maps": [ "ShadowlandCastle1.jm" ],
+"music":["scorchedwrath"]}

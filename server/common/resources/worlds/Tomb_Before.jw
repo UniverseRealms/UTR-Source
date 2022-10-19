@@ -1,0 +1,12 @@
+{"id":0,
+"isLimbo":false,
+"name":"Before Tomb",
+"sbName":"Before Tomb",
+"difficulty":5,
+"background":0,
+"blocking":1,
+"restrictTp":false,
+"showDisplays":false,
+"portals":[0x072c],
+"maps":["Tomb_Before.jm"],
+"music":["tomb"]}

@@ -1,0 +1,12 @@
+﻿{"id":0,
+"isLimbo":false,
+"name":"World Boss",
+"sbName":"World Boss",
+"difficulty":5,
+"background":0,
+"blocking":1,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0x9314],
+"maps":["OryxSanctum.jm"],
+"music":["coreofthehideout"]}

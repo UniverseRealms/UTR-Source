@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist":false,
+"name":"Disco",
+"sbName":"Disco",
+"difficulty":0,
+"background":0,
+"blocking":0,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0x144],
+"maps":["disco.jm"],
+"music":["betteroffalone"]}

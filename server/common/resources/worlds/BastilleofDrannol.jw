@@ -1,0 +1,12 @@
+{"id":0,
+"isLimbo":false,
+"name":"BastilleofDrannol",
+"sbName":"Bastille of Drannol",
+"difficulty":5,
+"background":0,
+"blocking":1,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0x63ae],
+"maps":["bastille1.jm", "bastille2.jm", "bastille3.jm"],
+"music":["bastille"]}

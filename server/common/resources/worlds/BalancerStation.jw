@@ -1,0 +1,12 @@
+﻿{"id":0,
+"isLimbo":false,
+"name":"Balancer Station",
+"sbName":"Balancer Station",
+"difficulty":1,
+"background":0,
+"blocking":0,
+"restrictTp":false,
+"showDisplays":false,
+"portals":[],
+"maps":["testing.jm"],
+"music":["meadow"]}

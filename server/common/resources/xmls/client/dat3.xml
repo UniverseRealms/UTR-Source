@@ -1,0 +1,1081 @@
+<Objects>
+
+  <!--https://docs.google.com/document/d/1N0QERPFPwmoqWFqewRqfFQTX-PMpZIir0WzbpXllXpI/edit (from top left going right)-->
+  <Object type="0xbe00" id="BSouls Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1ea</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe01" id="Cutlass Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1eb</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe02" id="TStorm Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1fa</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe03" id="Enve Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1fb</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe04" id="SWhip Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x20a</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe05" id="Mineral Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x20b</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe06" id="EShadow Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x21a</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe07" id="Ethereal Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x21b</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe08" id="Grown Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x22a</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe09" id="Evo Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x22b</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe10" id="EInferno Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x23a</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe11" id="Insight Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x24a</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe12" id="Crystalline Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x24b</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Tiered Weapons-->
+  <Object type="0xbe13" id="WBow Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1da</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe14" id="WWand Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1db</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe15" id="WStaff Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1dc</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe16" id="WSword Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1dd</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe17" id="WDagger Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1de</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe18" id="WKatana Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1df</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe19" id="RBow Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1ca</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe20" id="RWand Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1cb</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe21" id="RStaff Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1cc</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe22" id="RSword Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1cd</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe23" id="RDagger Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1ce</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe24" id="RKatana Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1cf</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe25" id="ReBow Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1ba</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe26" id="ReWand Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1bb</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe27" id="ReStaff Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1bc</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe28" id="ReSword Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1bd</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe29" id="ReDagger Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1be</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe30" id="ReKatana Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1bf</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe31" id="DBow Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1aa</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe32" id="DWand Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1ab</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe33" id="DStaff Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1ac</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe34" id="DSword Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1ad</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe35" id="DDagger Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1ae</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe36" id="DKatana Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1af</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Divine Items-->
+
+  <!--Swords-->
+  <Object type="0xbe37" id="Virtue Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x3f4</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe38" id="Insomnia Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x3f5</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe39" id="BAxe Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x3f6</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Daggers-->
+  <Object type="0xbe40" id="FrostBite Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x414</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe41" id="EDirk Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x415</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe42" id="Divinity Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x416</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Katanas-->
+  <Object type="0xbe43" id="Hydro Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x434</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe44" id="IKatana Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x435</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe45" id="Corossion Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x436</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Bows-->
+  <Object type="0xbe46" id="Demise Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x454</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe47" id="Revolts Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x455</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe48" id="Aqueos Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x456</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Staves-->
+  <Object type="0xbe49" id="Toxins Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x474</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe50" id="Decades Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x475</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe51" id="Conductor Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x476</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Wands-->
+  <Object type="0xbe52" id="Disparity Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x494</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe53" id="Dsea Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x495</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe54" id="Murky Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x496</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Shields-->
+  <Object type="0xbe55" id="Blight Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x408</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe56" id="Grandeur Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x409</Index>
+    </Texture>
+  </Object>
+
+  <!--Quivers-->
+  <Object type="0xbe59" id="StarLight Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x4c8</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe60" id="Imperial Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x4c9</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Spells-->
+  <Object type="0xbe61" id="Petri Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x4e8</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbe62" id="Arch Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x4e9</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Sacred-->
+
+  <!--Swords-->
+  <Object type="0xbeab" id="BotG Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x08</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbeac" id="TFS Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x57</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Katanas-->
+  <Object type="0xbe63" id="GoR Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0xaa</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe64" id="FR Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x137</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe65" id="FS Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x04</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Bows-->
+  <Object type="0xbe66" id="CotL Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x47</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe67" id="CR Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x17</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe68" id="CGush Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0xe7</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Staves-->
+  <Object type="0xbe69" id="SoC Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x37</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe70" id="SotBM Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x0a</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Wands-->
+  <Object type="0xbe71" id="WoC Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x141</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe72" id="SW Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x87</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Daggers-->
+  <Object type="0xbe73" id="SotV Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0xc7</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe74" id="Mimi Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x21</Index>
+    </Texture>
+  </Object>
+
+  <!--Quivers-->
+  <Object type="0xbe75" id="ZS Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x39</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe76" id="BQ Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x77</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Shields-->
+  <Object type="0xbe80" id="MB Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0xba</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Ancestral-->
+
+  <!--Swords-->
+  <Object type="0xbe81" id="VBA Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1a2</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+  <!--Remaining Ancestral Swords are up in the google doc xmls-->
+
+  <!--Katanas-->
+  <Object type="0xbe82" id="CO Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0xa1</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe83" id="BMK Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0xf7</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe84" id="PK Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x253</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Bows-->
+  <Object type="0xbe85" id="WC Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x81</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe86" id="VW Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0xb1</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe87" id="GB Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x362</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Staves-->
+  <!--All the 3 Ancestraal Staves are in the google docs xml-->
+
+  <!--Wands-->
+  <Object type="0xbe88" id="Prototype Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x281</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe89" id="EO Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x177</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe90" id="DW Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x31</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Daggers-->
+  <Object type="0xbe91" id="GD Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x342</Index>
+    </Texture>
+  </Object>
+  <!--Other Ancestral Daggers Are in the google docs xml-->
+
+  <!--Abilities-->
+
+  <!--Quivers-->
+  <Object type="0xbe92" id="QoA Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x158</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe93" id="FQ Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>342</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Spells-->
+  <Object type="0xbe94" id="Ignis Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1a</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe95" id="Elem Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x168</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Shields-->
+  <Object type="0xbe96" id="SCS Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x351</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe97" id="SoI Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x0c</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Heroic-->
+
+  <!--Swords-->
+  <Object type="0xbe98" id="Broad Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x188</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe99" id="BotA Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x2e3</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--The Third Heroic Sword is in google docs xml-->
+
+  <!--Katanas-->
+  <Object type="0xbe9a" id="Dread Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x241</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe9b" id="Phan Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1d2</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--The Third Heroic Katana is in google docs xml-->
+
+  <!--Bows-->
+  <Object type="0xbe9c" id="FC Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x197</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Other Heroic Bows are in google docs xml-->
+
+  <!--Staves-->
+  <Object type="0xbe9d" id="SotD Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x73</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbe9e" id="SoUO Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x2c1</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--The Third Heroic Staff is in google docs xml-->
+
+  <!--Wands-->
+  <Object type="0xbe9f" id="TG Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x2d1</Index>
+    </Texture>
+  </Object>
+
+  <Object type="0xbea0" id="Bm Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x261</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbea1" id="PSW Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0xc1</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Daggers-->
+  <Object type="0xbea2" id="DoT Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x118</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbea3" id="TSK Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x11</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbea4" id="GS Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x251</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Abilities-->
+
+  <!--Shields-->
+  <Object type="0xbea5" id="TGB Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x2e1</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbea6" id="BBlaze Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x1d2</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Spells-->
+  <Object type="0xbea7" id="Infernal Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x331</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbea8" id="Illu Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x24</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <!--Quivers-->
+  <Object type="0xbea9" id="Alienated Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x107</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xbeaa" id="Fey Proj">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj3Alt</File>
+      <Index>0x83</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+  <Object type="0xc0a" id="RoE Shot">
+    <Class>Projectile</Class>
+    <Texture>
+      <File>lofiObj7</File>
+      <Index>0x11e</Index>
+    </Texture>
+    <AngleCorrection>1</AngleCorrection>
+  </Object>
+
+</Objects>

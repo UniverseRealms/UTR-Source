@@ -1,0 +1,11 @@
+[  
+  {  
+    "weight":15,
+    "title":"Evil's Crib",
+    "text":"<p><a href=\"https://goo.gl/wbaF9q\" target=\"_blank\"><font color=\"#FFA500\">Click here to read the Patch Notes on Reddit!</font></a></p><p></p><p><b>New!</b><ul><li>Mountain Temple Event Chest is live! Come one come all to get plenty of loot, including the exclusive <b>Woodland Huntress</b> in celebration of Arbor Day. As per usual, remember that the Chest will only spawn once all the enemies in the dungeon have been eliminated. The Event will end on Tuesday May 2nd at 6pm CET.</li></ul></p><p><b>Removed</b><ul><li>Biff the Buffed Bunny and his eggs has finally left the Realm. The Easter Event is over</li></ul></p><p><b>Balance - Mountain Temple</b><ul><li>Increased Daichi HP by 25%</li> <li>Added Invincibility Phases</li> <li>Added Pierce to Elemental Shots</li> <li>Increased the number of monsters</li> <li>Added guaranteed Def Pot + 1 additional Random Pot drop (per dungeon not per player)</li> <li>Added 15 players limit</li> <li>Fixed a few typos and bugs</li></ul></p><p><b>Fix & Tweaks</b><ul><li>All Keys should now have 200 FP</li> <li>All Skins should now drop in SB Bags (to avoid bot looters)</li> <li>Mini Rosen & Rosen Skins should now be properly credited to their respective artist (thanks Lovens & Univoid)</li> <li>Added Time Restriction on Creating Guild / Changing Guild Rank to fix an exploit</li> <li>The portal to the Ivory Wyvern in the Lair of Draconis no longer despawns</li></ul></p>",
+    "showAtStartup":false,
+    "newsKey":"ahVzfnJlYWxtb2Z0aGVtYWRnb2RocmRyFwsSCkluR2FtZU5ld3MYgICwzYKp5wsM",
+    "platform":"kongregate,steam,rotmg",
+    "startTime":1493251200000
+  }
+]

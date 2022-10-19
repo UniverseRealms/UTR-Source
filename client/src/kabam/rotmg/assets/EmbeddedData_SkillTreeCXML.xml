@@ -1,0 +1,238 @@
+<Objects>
+    <Object id="0" type="2">
+        <texture>skilltree_gold_open</texture>
+        <X>0</X>
+        <Y>0</Y>
+        <Desc>Empty</Desc>
+        <Locks>
+            <Lock>0</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>0</Unlock>
+        </Unlocks>
+    </Object>
+    <Object id="1" type="2">
+        <texture>skilltree_gold_open</texture>
+        <X>30</X>
+        <Y>0</Y>
+        <Desc>Ability damage is increased by 25%</Desc>
+        <Locks>
+            <Lock>0</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>8</Unlock>
+            <Unlock>9</Unlock>
+            <Unlock>10</Unlock>
+        </Unlocks>
+    </Object>
+    <Object id="2" type="2">
+        <texture>skilltree_gold_open</texture>
+        <X>-30</X>
+        <Y>0</Y>
+        <Desc>Projectile damage is increased by 25%</Desc>
+        <Locks>
+            <Lock>0</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>14</Unlock>
+            <Unlock>15</Unlock>
+            <Unlock>16</Unlock>
+        </Unlocks>
+    </Object>
+    <Object id="3" type="2">
+        <texture>skilltree_gold_open</texture>
+        <X>0</X>
+        <Y>30</Y>
+        <Desc>Mana cost is reduced by 25%</Desc>
+        <Locks>
+            <Lock>0</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>11</Unlock>
+            <Unlock>12</Unlock>
+            <Unlock>13</Unlock>
+        </Unlocks>
+    </Object>
+    <Object id="4" type="2">
+        <texture>skilltree_gold_open</texture>
+        <X>0</X>
+        <Y>-30</Y>
+        <Desc>Speed is increased by 25%</Desc>
+        <Locks>
+            <Lock>0</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>5</Unlock>
+            <Unlock>6</Unlock>
+            <Unlock>7</Unlock>
+        </Unlocks>
+    </Object>
+    <Object id="5" type="1">
+        <texture>skilltree_silver_open</texture>
+        <X>-30</X>
+        <Y>-60</Y>
+        <Desc>Silver 5 desc</Desc>
+        <Locks>
+            <Lock>6</Lock>
+            <Lock>7</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>0</Unlock>
+        </Unlocks>
+        <PreviousId>4</PreviousId>
+    </Object>
+    <Object id="6" type="1">
+        <texture>skilltree_silver_open</texture>
+        <X>0</X>
+        <Y>-60</Y>
+        <Desc>Silver 6 desc</Desc>
+        <Locks>
+            <Lock>5</Lock>
+            <Lock>7</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>0</Unlock>
+        </Unlocks>
+        <PreviousId>4</PreviousId>
+    </Object>
+    <Object id="7" type="1">
+        <texture>skilltree_silver_open</texture>
+        <X>30</X>
+        <Y>-60</Y>
+        <Desc>Silver 7 desc</Desc>
+        <Locks>
+            <Lock>5</Lock>
+            <Lock>6</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>0</Unlock>
+        </Unlocks>
+        <PreviousId>4</PreviousId>
+    </Object>
+    <Object id="8" type="1">
+        <texture>skilltree_silver_open</texture>
+        <X>60</X>
+        <Y>-30</Y>
+        <Desc>Silver 8 desc</Desc>
+        <Locks>
+            <Lock>9</Lock>
+            <Lock>10</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>0</Unlock>
+        </Unlocks>
+        <PreviousId>1</PreviousId>
+    </Object>
+    <Object id="9" type="1">
+        <texture>skilltree_silver_open</texture>
+        <X>60</X>
+        <Y>0</Y>
+        <Desc>Silver 9 desc</Desc>
+        <Locks>
+            <Lock>8</Lock>
+            <Lock>10</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>0</Unlock>
+        </Unlocks>
+        <PreviousId>1</PreviousId>
+    </Object>
+    <Object id="10" type="1">
+        <texture>skilltree_silver_open</texture>
+        <X>60</X>
+        <Y>30</Y>
+        <Desc>Silver 10 desc</Desc>
+        <Locks>
+            <Lock>8</Lock>
+            <Lock>9</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>0</Unlock>
+        </Unlocks>
+        <PreviousId>1</PreviousId>
+    </Object>
+    <Object id="11" type="1">
+        <texture>skilltree_silver_open</texture>
+        <X>30</X>
+        <Y>60</Y>
+        <Desc>Silver 11 desc</Desc>
+        <Locks>
+            <Lock>12</Lock>
+            <Lock>13</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>0</Unlock>
+        </Unlocks>
+        <PreviousId>3</PreviousId>
+    </Object>
+    <Object id="12" type="1">
+        <texture>skilltree_silver_open</texture>
+        <X>0</X>
+        <Y>60</Y>
+        <Desc>Silver 12 desc</Desc>
+        <Locks>
+            <Lock>11</Lock>
+            <Lock>13</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>0</Unlock>
+        </Unlocks>
+        <PreviousId>3</PreviousId>
+    </Object>
+    <Object id="13" type="1">
+        <texture>skilltree_silver_open</texture>
+        <X>-30</X>
+        <Y>60</Y>
+        <Desc>Silver 13 desc</Desc>
+        <Locks>
+            <Lock>11</Lock>
+            <Lock>12</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>0</Unlock>
+        </Unlocks>
+        <PreviousId>3</PreviousId>
+    </Object>
+    <Object id="14" type="1">
+        <texture>skilltree_silver_open</texture>
+        <X>-60</X>
+        <Y>30</Y>
+        <Desc>Silver 14 desc</Desc>
+        <Locks>
+            <Lock>15</Lock>
+            <Lock>16</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>0</Unlock>
+        </Unlocks>
+        <PreviousId>2</PreviousId>
+    </Object>
+    <Object id="15" type="1">
+        <texture>skilltree_silver_open</texture>
+        <X>-60</X>
+        <Y>0</Y>
+        <Desc>Silver 15 desc</Desc>
+        <Locks>
+            <Lock>14</Lock>
+            <Lock>16</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>0</Unlock>
+        </Unlocks>
+        <PreviousId>2</PreviousId>
+    </Object>
+    <Object id="16" type="1">
+        <texture>skilltree_silver_open</texture>
+        <X>-60</X>
+        <Y>-30</Y>
+        <Desc>Silver 16 desc</Desc>
+        <Locks>
+            <Lock>14</Lock>
+            <Lock>15</Lock>
+        </Locks>
+        <Unlocks>
+            <Unlock>0</Unlock>
+        </Unlocks>
+        <PreviousId>2</PreviousId>
+    </Object>
+</Objects>

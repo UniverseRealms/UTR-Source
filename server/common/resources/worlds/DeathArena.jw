@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist":false,
+"name":"DeathArena",
+"sbName":"Champion's Arena",
+"difficulty":0,
+"background":0,
+"blocking":0,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0x144],
+"maps":["arena.jm"],
+"music":["meadow"]}

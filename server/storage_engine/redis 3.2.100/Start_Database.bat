@@ -1,0 +1,1 @@
+start /d "C:\Users\censored-name\Documents\GitHub\ut-v4-source-master\ut-core-master\server\storage_engine\redis 3.2.100" redis-server.exe .\redis.conf

@@ -1,0 +1,12 @@
+{"id":0,
+"isLimbo":false,
+"name":"The Void",
+"sbName":"The Void",
+"difficulty":5,
+"background":0,
+"blocking":1,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0xb013],
+"maps":["void.jm"],
+"music":["losthalls"]}

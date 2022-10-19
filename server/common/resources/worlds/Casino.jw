@@ -1,0 +1,13 @@
+{"id":-18,
+"isLimbo":false,
+"persist": true,
+"name":"Tavern",
+"sbName":"Tavern",
+"difficulty":0,
+"background":0,
+"blocking":0,
+"restrictTp":false,
+"showDisplays":false,
+"portals":[0x7947],
+"maps":["casino.jm"],
+"music":["casino"]}
